@@ -1,12 +1,12 @@
 <#
   .Author
-  Trevor Sullivan
+  Trevor Sullivan <pcgeek86@gmail.com>
     
   .Description
   This DSC configuration will download and install the Microsoft
   DSC Resource Kit Wave 6.
     
-  .Links
+  .Link
   http://trevorsullivan.net
 #>
 configuration DSCWave {
