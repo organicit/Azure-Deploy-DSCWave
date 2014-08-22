@@ -18,6 +18,7 @@ You must have the following in place, prior to running this script:
 3. The Azure PowerShell module must be configured to point to your Azure Subscription(s)
 
 Usage
+------
 
 To use the `New-AzureVMWithDsc.ps1` script, update the `HashTable` values for:
 
